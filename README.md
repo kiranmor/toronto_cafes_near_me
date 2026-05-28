@@ -4,7 +4,7 @@ A Next.js cafe finder for discovering cute and cool cafes around Toronto.
 
 ## Live Website
 
-Deployment pending. The Vercel URL will be added here after the production deployment is created.
+https://toronto-cafes-near-me.vercel.app/
 
 ## Features
 
